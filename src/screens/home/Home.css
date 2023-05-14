@@ -1,0 +1,16 @@
+/* subheading */
+
+.sub-heading {
+	margin: 0;
+	padding: 8px;
+	font-size: 1rem;
+	text-align: center;
+	background: #ff9999;
+	width: 100vw;
+}
+
+.upcoming-movies-field {
+	height: 35vh;
+
+	background: gray;
+}
